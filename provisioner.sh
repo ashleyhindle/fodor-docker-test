@@ -1,1 +1,2 @@
-systemctl status docker
+docker info
+docker run hello-world
