@@ -1,0 +1,19 @@
+{
+  "name": "ashleyhindle/fodor-docker-test",
+  "installpath": "/tmp/fodor-docker-test/",
+  "provisioner": "provisioner.sh"
+  "text":
+  },
+  "links": [
+  ],
+  "size": {
+    "suggested": "512mb",
+    "required": "512mb"
+  },
+  "distro": "docker",
+  "description": "Docker digitalocean instance",
+  "keywords": ["fodor", "test", "docker""],
+  "homepage": "https://fodor.xyz",
+  "inputs": [
+  ]
+}
