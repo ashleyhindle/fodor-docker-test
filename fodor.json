@@ -2,7 +2,7 @@
   "name": "ashleyhindle/fodor-docker-test",
   "installpath": "/tmp/fodor-docker-test/",
   "provisioner": "provisioner.sh",
-  "text":
+  "text":{
   },
   "links": [
   ],
