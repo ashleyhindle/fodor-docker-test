@@ -12,7 +12,7 @@
   },
   "distro": "docker",
   "description": "Docker digitalocean instance",
-  "keywords": ["fodor", "test", "docker""],
+  "keywords": ["fodor", "test", "docker"],
   "homepage": "https://fodor.xyz",
   "inputs": [
   ]
